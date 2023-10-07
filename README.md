@@ -1,10 +1,10 @@
-### Hi there 👋
+<body>
+
+<!--<img src="photo-1557683316-973673baf926.avif" alt="Descripción de la imagen" height="" width=""> --> 
+
+### Hola 👋 Bienvenid@s a mi repo :space_invader:
 
 <!--
-**Agussgon/Agussgon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## :computer: Habilidades Técnicas 
+  - Lenguajes
+    - Java
+    - JavaScript.
+  - Front
+    - HTML5
+    - CSS
+    - React.
+  - Frameworks
+    - Spring Boot
+    - React Native.
+  - Bases de Datos
+    - MySQL
+    - MongoDB.
+  - Controlador de versionado
+    - Git
+   
+</body>
