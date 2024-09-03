@@ -19,17 +19,17 @@
 ## :computer: Habilidades Técnicas 
   - Lenguajes
     - Java
-    - JavaScript.
+    - Go
+    - JavaScript
   - Front
     - HTML5
     - CSS
-    - React.
+    - React
   - Frameworks
     - Spring Boot
-    - React Native.
+    - React Native
   - Bases de Datos
     - MySQL
-    - MongoDB.
   - Controlador de versionado
     - Git
    
