@@ -13,13 +13,13 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+    - Go
 -->
 
 
 ## :computer: Habilidades Técnicas 
   - Lenguajes
     - Java
-    - Go
     - JavaScript
   - Front
     - HTML5
